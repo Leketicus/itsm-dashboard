@@ -1,0 +1,16 @@
+ 
+# Ignore system files
+AppData/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+*.log
+*.tmp
+*.cache
+.ipynb_checkpoints/
